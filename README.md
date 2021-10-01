@@ -5,5 +5,5 @@ O desafio foi criar um jogo da memória utilizando apenas HTML, CSS e JavaScript
 - Conhecimento em HTML, CSS e JavaScript
 - IDE para ver o código
 
-## Como posso jogar?
-Basta clicar [aqui]()
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
